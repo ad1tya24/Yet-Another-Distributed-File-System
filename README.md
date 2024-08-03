@@ -1,7 +1,5 @@
 # Yet-Another-Distributed-File-System
 
-Built as a part of the Big Data Course at PES University
-
 ## Setting up YADFS
 
 Setup the Distributed File System. The configuration to setup a distributed file system is provided in the config_sample.json file.
